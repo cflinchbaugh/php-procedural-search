@@ -5,6 +5,7 @@
 <h1>Home</h1>
 
 <h2>Articles</h2>
+<a href="./article_create.php">Create Article</a>
 
 <div class="articles-wrapper">
     <?php
